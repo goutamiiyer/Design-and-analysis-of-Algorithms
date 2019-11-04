@@ -1,0 +1,13 @@
+master method - most important- knowing how to apply the constants
+theory
+sorting algorithms
+how to prove correctness of an algorithm
+loop invariant
+property you have to name
+recursion tree
+steps of all algorithms
+theory for asymptotic notation
+some MCQs, 1 algorithm, few write sentence
+
+
+https://www.electronics-tutorials.ws/boolean/bool_6.html

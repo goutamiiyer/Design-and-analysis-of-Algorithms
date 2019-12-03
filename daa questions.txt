@@ -1,3 +1,5 @@
+Exam 1
+=======
 master method - most important- knowing how to apply the constants
 theory
 sorting algorithms
@@ -8,6 +10,22 @@ recursion tree
 steps of all algorithms
 theory for asymptotic notation
 some MCQs, 1 algorithm, few write sentence
-
-
-https://www.electronics-tutorials.ws/boolean/bool_6.html
+=====================================================
+Exam 3
+=======
+Final Exam
+1. Relaxation Technique
+2. Base function used in all pairs shortest path -> Relax(u, v, w)
+3. Floyd Warshall follows dynamic or greedy
+4. Recursion function of Floyd Warshall
+5. Ford filkeerson Residual network with Example
+6. Augmented path
+7. Cut
+8. Dynamic multi threading features/property
+9. Merge sort program spawn use multi thread 
+10. What is DAG? How we use it?
+11. Flow Network flow serial path parallel path 
+12. Work span parallelism explain
+13. NP complete define
+14. NP complete why
+15. Which is efficient algorithm - dp, ms
